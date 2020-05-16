@@ -1,0 +1,7 @@
+.vs/
+x64/
+.vscode/
+/benchmark.hl
+/simplex.hdll
+/cpp/*
+!/cpp/cpp.*

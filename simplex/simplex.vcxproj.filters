@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="hl_interface.c" />
+    <ClCompile Include="open_simplex.cpp" />
+    <ClCompile Include="simplex.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="open_simplex.h" />
+    <ClInclude Include="simplex.h" />
+  </ItemGroup>
+</Project>
