@@ -4,7 +4,7 @@ I wrote a benchmark to compare the performance of the Haxe HashLink VM vs HashLi
 
 The benchmark generates 128 times a 1024x1024 OpenSimplex noise map. The original source code was written in Java, and can be found [here](https://gist.github.com/KdotJPG/b1270127455a94ac5d19). It has been ported to Haxe and C/C++.
 
-Here are the results of the benchmark (ran on a laptop i7-7500U with 16GB):
+Here are the results of the benchmark (ran on a laptop i7-7500U with 16GB, HashLink 1.11.0):
 
 || Time (seconds) | Relative time |
 | --- | --- | --- |
